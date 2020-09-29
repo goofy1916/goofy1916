@@ -13,7 +13,8 @@
 ### My Web Projects 🕸:
 - Static website for shop
 - Static product website
-- React Todo app
+- [React Todo app](https://goofy1916.github.io/Todo_app_react)
+- [React Expense Manager](https://goofy1916.github.io/expense-tracker)
 
 ### My backend projects 🔙🔚:
 - Api for Inventory keeping
