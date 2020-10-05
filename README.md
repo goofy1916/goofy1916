@@ -1,4 +1,4 @@
-## Hello 👋 I am P.u.shtfu.
+## Hello 👋 I am P.u.shtfu
 ### With a Youtube channel : [PushHub](https://www.youtube.com/channel/UChQNoE0c9i6m89inWjVI31A) 
 
 ### I'm currently working at 👨‍💻 [Recibo Technologies Pvt Ltd.](https://www.recibotech.com/) as an App Developer
