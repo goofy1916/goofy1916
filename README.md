@@ -7,7 +7,7 @@
 - 📚 Blog app
 - 🏆 Tournament Management app
 - 💪 AR fitness app
-- 🎲 Dice App
+- 🎲 [Dice App](https://goofy1916.github.io/dice-app/#/)
 - ☁ [Weather app](https://goofy1916.github.io/weather-app-bloc-gh-page/index.html#/)
 - 👟 [Shoe showcase UI project](https://goofy1916.github.io/shoes_store/)
 
