@@ -4,18 +4,18 @@
 ### I'm currently working at 👨‍💻 [Recibo Technologies Pvt Ltd.](https://www.recibotech.com/) as an App Developer
 
 ### My Flutter projects 🎯:
-- Blog app
-- Tournament Management app
-- AR fitness app
-- Dice App
-- [Weather app](https://goofy1916.github.io/weather-app-bloc-gh-page/index.html#/)
-- [Shoe showcase UI project](https://goofy1916.github.io/shoes_store/)
+- 📚 Blog app
+- 🏆 Tournament Management app
+- 💪 AR fitness app
+- 🎲 Dice App
+- ☁ [Weather app](https://goofy1916.github.io/weather-app-bloc-gh-page/index.html#/)
+- 👟 [Shoe showcase UI project](https://goofy1916.github.io/shoes_store/)
 
 ### My Web Projects 🕸:
-- Static website for shop
-- [Leica camera product website](https://goofy1916.github.io/one-color-website/) *static*
-- [React Todo app](https://goofy1916.github.io/Todo_app_react)
-- [React Expense Manager](https://goofy1916.github.io/expense-tracker)
+- 🛒 Static website for shop
+- 📷 [Leica camera product website](https://goofy1916.github.io/one-color-website/) *static*
+- 📜 [React Todo app](https://goofy1916.github.io/Todo_app_react)
+- 💹 [React Expense Manager](https://goofy1916.github.io/expense-tracker)
 
 ### My backend projects 🔙🔚:
 - Api for Inventory keeping
