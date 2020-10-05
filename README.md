@@ -9,6 +9,7 @@
 - AR fitness app
 - Dice App
 - [Weather app](https://goofy1916.github.io/weather-app-bloc-gh-page/index.html#/)
+- [Shoe showcase UI project](https://goofy1916.github.io/shoes_store/)
 
 ### My Web Projects 🕸:
 - Static website for shop
