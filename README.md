@@ -8,7 +8,7 @@
 - Tournament Management app
 - AR fitness app
 - Dice App
-- Weather app
+- [Weather app](https://goofy1916.github.io/weather-app-bloc-gh-page/index.html#/)
 
 ### My Web Projects 🕸:
 - Static website for shop
