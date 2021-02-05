@@ -3,9 +3,10 @@
 
 ### I'm currently working at 👨‍💻 [Recibo Technologies Pvt Ltd.](https://www.recibotech.com/) as an App Developer
 
-### Last Freelance project 🆓 : [CommCourse](https://appdistribution.firebase.dev/i/d4cdc1de089f8b55) eLearning Platform 
+### Last Freelance project 🆓 : [CommCourse](https://appdistribution.firebase.dev/i/d4cdc1de089f8b55) E-Learning Platform 
 
 ### My Flutter projects 🎯:
+- 🏫 CommCourse [CommCourse](https://appdistribution.firebase.dev/i/d4cdc1de089f8b55) (E-Learning Platform)
 - 📚 Blog app
 - 🏆 Tournament Management app
 - 💪 AR fitness app
