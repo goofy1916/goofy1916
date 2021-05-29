@@ -1,12 +1,13 @@
 ## Hello 👋 I am P.u.shtfu
 ### With a Youtube channel : [PushHub](https://www.youtube.com/channel/UChQNoE0c9i6m89inWjVI31A) 
 
-### I'm currently working at 👨‍💻 [Recibo Technologies Pvt Ltd.](https://www.recibotech.com/) as an App Developer
+### I'm currently working at 👨‍💻 [Mobiux Pvt Ltd.](https://mobiux.in/) as an App Developer
+### Previously worked at 👨‍💻 [ReciboTech Pvt Ltd.](https://www.recibotech.com) as an App Developer
 
-### Last Freelance project 🆓 : [CommCourse](https://appdistribution.firebase.dev/i/d4cdc1de089f8b55) E-Learning Platform 
+### Last Freelance project 🆓 : [CommCourse](https://play.google.com/store/apps/details?id=com.pushhub.ak_course_app&hl=en&gl=IN) E-Learning Platform 
 
 ### My Flutter projects 🎯:
-- 🏫 [CommCourse](https://appdistribution.firebase.dev/i/d4cdc1de089f8b55) (E-Learning Platform)
+- 🏫 [CommCourse](https://play.google.com/store/apps/details?id=com.pushhub.ak_course_app&hl=en&gl=IN) (E-Learning Platform)
 - 📚 Blog app
 - 🏆 Tournament Management app
 - 💪 AR fitness app
